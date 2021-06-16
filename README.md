@@ -1,3 +1,4 @@
-# Design
-①Design講座用のページはこちら↓/n
+# Design講座用のページ
 https://miniaicar.github.io/Design/
+# 当日資料
+？？？
