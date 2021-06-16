@@ -1,2 +1,3 @@
 # Design
-①Design講座用のページ
+①Design講座用のページはこちら↓
+https://miniaicar.github.io/Design/
