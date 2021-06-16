@@ -1,2 +1,2 @@
 # Design
-①Design講座用のリポ
+①Design講座用のページ
